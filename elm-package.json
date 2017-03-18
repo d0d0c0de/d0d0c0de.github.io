@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "D0D0C0DE Home Page",
-    "repository": "https://github.com/d0d0c0de/d0d0c0de.github.io.git",
+    "repository": "https://github.com/d0d0c0de/d0d0c0de-github-io.git",
     "license": "BSD3",
     "source-directories": [
         "elm"
