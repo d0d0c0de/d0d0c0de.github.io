@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "summary": "D0D0C0DE Home Page",
+    "repository": "https://github.com/d0d0c0de/d0d0c0de.github.io.git",
+    "license": "BSD3",
+    "source-directories": [
+        "elm"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
