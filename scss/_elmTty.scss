@@ -1,0 +1,33 @@
+
+@import 'solarized_colors';
+
+$elmTty_bg_color: $S_base03;
+$elmTty_fg_color: $S_base0;
+
+$elmTty_color0: $S_base02;
+$elmTty_color1: $S_red;
+$elmTty_color2: $S_green;
+$elmTty_color3: $S_yellow;
+$elmTty_color4: $S_blue;
+$elmTty_color5: $S_magenta;
+$elmTty_color6: $S_cyan;
+$elmTty_color7: $S_base2;
+$elmTty_color9: $S_orange;
+$elmTty_color8: $S_base03;
+$elmTty_color10: $S_base01;
+$elmTty_color11: $S_base00;
+$elmTty_color12: $S_base0;
+$elmTty_color13: $S_violet;
+$elmTty_color14: $S_base1;
+$elmTty_color15: $S_base3;
+
+.elmTtyContainer {
+    border: solid 2px $S_blue;
+    font-family: monospace;
+    color: $elmTty_fg_color;
+    background-color: $elmTty_bg_color;
+}
+
+.ttyLine {
+    height: 1em;
+}
